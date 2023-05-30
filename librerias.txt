@@ -1,0 +1,17 @@
+Python 3.8.3
+- opencv-contrib-python==4.5.2.54
+- numpy==1.20.3
+- mediapipe==0.8.6
+
+para instalar direccionando el pip 
+C:\Python\3.9\python.exe -m pip install nombre_paquete
+
+C:\Python\3.9\python.exe -m pip install mediapipe
+
+
+
+otras versionas:
+pip install opencv-contrib-python==4.5.4.60
+
+pip install opencv-contrib-python==4.7.0.72
+
